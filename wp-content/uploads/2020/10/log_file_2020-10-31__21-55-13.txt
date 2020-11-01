@@ -1,0 +1,48 @@
+
+---Downloaded files---
+The import files for: Lawyer were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress\wp-content\plugins\airi-demo-importer/demo-content/airi-dc-lawyer.xml
+Widget file = C:\xampp\htdocs\wordpress\wp-content\plugins\airi-demo-importer/demo-content/airi-w-lawyer.wie
+Customizer file = C:\xampp\htdocs\wordpress\wp-content\plugins\airi-demo-importer/demo-content/airi-c-lawyer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Tag Cloud - Search By Tags - Widget already exists
+
+Footer 1 : 
+
+Image - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+Airi: Social Profile - No Title - Widget already exists
+
+Footer 2 : 
+
+Navigation Menu - About Us - Widget already exists
+
+Footer 3 : 
+
+Navigation Menu - Services - Widget already exists
+
+Footer 4 : 
+
+Custom HTML - Contact Us - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
